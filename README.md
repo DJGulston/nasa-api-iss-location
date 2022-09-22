@@ -14,7 +14,7 @@ Asynchronous JavaScript website that displays the GPS coordinates of NASA's Inte
 
 ## Installation Guide
 
-To install this project, go to the following link [nasa-iss-location](https://github.com/DJGulston/nasa-iss-location), and download the code files. Save the files anywhere on your machine with the same file structure as it is done in the GitHub repository.
+To install this project, go to the following link [nasa-api-iss-location](https://github.com/DJGulston/nasa-api-iss-location), and download the code files. Save the files anywhere on your machine with the same file structure as it is done in the GitHub repository.
 
 This project makes use of asynchronous JavaScript programming, so you will have to install Node.js so you can install the necessary packages if you would like to test the code in a code editor like Visual Studio Code.
 
